@@ -520,4 +520,7 @@ footer {
         text-align: center;
         margin: 12px 0;
     }
+    .about-me__info--title {
+        font-size: 24px;
+    }
 }
